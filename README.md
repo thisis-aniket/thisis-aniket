@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thisis-aniket
 - 👀 I’m interested in web 
 - 🌱 I’m currently learning a web technologies
-- 💞️ I’m looking to collaborate to learn something new with amazing stuff
+- 💞️ I’m looking to collaborate to learn something new by developing amazing stuff
 - 📫 you can reach me by LinkedIn
 https://www.linkedin.com/in/aniket-landge-a365611a5
 
